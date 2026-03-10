@@ -1,0 +1,195 @@
+{
+  "levels": [
+    {
+      "id": 0,
+      "code": "A1",
+      "label": "Básico",
+      "color": "#52e0a0",
+      "total": 50,
+      "sublevels": [
+        {
+          "id": "a1_1",
+          "label": "1–25",
+          "words": [
+            "the",
+            "be",
+            "have",
+            "do",
+            "say",
+            "get",
+            "go",
+            "make",
+            "know",
+            "think",
+            "look",
+            "come",
+            "give",
+            "find",
+            "tell",
+            "see",
+            "take",
+            "want",
+            "use",
+            "work",
+            "call",
+            "ask",
+            "feel",
+            "try",
+            "keep"
+          ],
+          "story": {
+            "title_en": "A New Morning",
+            "title_es": "Una nueva mañana",
+            "eyebrow": "A1 · Sub-nivel 1 · Palabras 1–25",
+            "tags": ["the", "be", "have", "do", "say", "get", "go", "make"],
+            "text_en": "Every morning, <hw>the</hw> alarm <hw>goes</hw> off at seven. Maria <hw>gets</hw> up and <hw>looks</hw> out <hw>the</hw> window. <hw>The</hw> sky <hw>is</hw> clear and blue. She <hw>says</hw> to herself, \"Today will <hw>be</hw> a good day.\" She <hw>goes</hw> to <hw>the</hw> kitchen and <hw>makes</hw> coffee. Her sister Ana <hw>comes</hw> downstairs. \"Do you <hw>have</hw> any bread?\" Ana asks. \"Yes, I <hw>think</hw> so,\" Maria says, and she <hw>finds</hw> a fresh loaf on <hw>the</hw> table.\n\nAna <hw>tells</hw> Maria about her new job. \"I <hw>want</hw> to <hw>do</hw> well,\" she says. \"I <hw>know</hw> it will <hw>take</hw> time, but I <hw>feel</hw> ready.\" Maria <hw>sees</hw> <hw>the</hw> confidence in her sister's eyes. \"You <hw>use</hw> your strengths every day,\" she says. \"Just <hw>try</hw>, and you will <hw>see</hw> — things will <hw>work</hw> out.\"\n\n\"Can I <hw>call</hw> you if I need to <hw>ask</hw> something?\" Ana says. \"Always,\" Maria replies. \"<hw>Keep</hw> going no matter what. I will <hw>give</hw> you all the support you need.\" Ana smiles. It <hw>is</hw> a simple morning, but it <hw>feels</hw> like everything they need.",
+            "text_es": "Cada mañana, la alarma suena a las siete. María se levanta y mira por la ventana. El cielo está despejado y azul. Se dice a sí misma: \"Hoy será un buen día.\" Va a la cocina y prepara café. Su hermana Ana baja las escaleras. \"¿Tienes pan?\" pregunta Ana. \"Sí, creo que sí,\" dice María, y encuentra una barra de pan fresca sobre la mesa.\n\nAna le cuenta a María sobre su nuevo trabajo. \"Quiero hacerlo bien,\" dice. \"Sé que llevará tiempo, pero me siento lista.\" María ve la confianza en los ojos de su hermana. \"Usas tus fortalezas cada día,\" dice. \"Solo intenta, y verás — las cosas saldrán bien.\"\n\n\"¿Puedo llamarte si necesito preguntar algo?\" dice Ana. \"Siempre,\" responde María. \"Sigue adelante sin importar qué. Te daré todo el apoyo que necesites.\" Ana sonríe. Es una mañana sencilla, pero se siente como todo lo que necesitan."
+          }
+        },
+        {
+          "id": "a1_2",
+          "label": "26–50",
+          "words": [
+            "let",
+            "become",
+            "run",
+            "help",
+            "start",
+            "move",
+            "show",
+            "love",
+            "play",
+            "change",
+            "follow",
+            "believe",
+            "learn",
+            "live",
+            "understand",
+            "build",
+            "spend",
+            "bring",
+            "happen",
+            "meet",
+            "speak",
+            "write",
+            "read",
+            "leave",
+            "grow"
+          ],
+          "story": {
+            "title_en": "The Road Ahead",
+            "title_es": "El camino por delante",
+            "eyebrow": "A1 · Sub-nivel 2 · Palabras 26–50",
+            "tags": ["let", "become", "run", "help", "start", "move", "show"],
+            "text_en": "Carlos decided to <hw>leave</hw> his city job and <hw>move</hw> to a small town. He wanted to <hw>start</hw> something of his own. His mother said, \"<hw>Let</hw> me <hw>help</hw> you — I <hw>believe</hw> in you completely.\" Those words <hw>became</hw> his fuel.\n\nHe <hw>read</hw> every book he could find. He <hw>spent</hw> long evenings <hw>learning</hw> to <hw>write</hw> better. He <hw>followed</hw> people he admired and tried to <hw>understand</hw> how they worked. \"What <hw>happens</hw> when you truly <hw>love</hw> what you do?\" he asked himself. \"You never stop.\"\n\nHe <hw>met</hw> Rosa at a local market. She had <hw>built</hw> her own small bakery. \"How did you <hw>become</hw> so successful?\" he asked. \"I <hw>showed</hw> up every day,\" she said. \"I let myself <hw>grow</hw>. I <hw>played</hw> to my strengths. I never <hw>ran</hw> from hard work.\"\n\nCarlos <hw>spoke</hw> to her for hours. She <hw>changed</hw> how he <hw>lived</hw>. He <hw>brought</hw> her ideas into his own plan. By the end of that year, his business began to <hw>grow</hw>. He <hw>learned</hw> that the best thing you can do is <hw>show</hw> up, <hw>believe</hw>, and never stop <hw>moving</hw> forward.",
+            "text_es": "Carlos decidió dejar su trabajo en la ciudad y mudarse a un pequeño pueblo. Quería empezar algo propio. Su madre le dijo: \"Déjame ayudarte — creo completamente en ti.\" Esas palabras se convirtieron en su combustible.\n\nLeyó todos los libros que pudo encontrar. Pasó largas tardes aprendiendo a escribir mejor. Siguió a personas que admiraba e intentó entender cómo trabajaban. \"¿Qué pasa cuando realmente amas lo que haces?\" se preguntó. \"Nunca te detienes.\"\n\nConoció a Rosa en un mercado local. Ella había construido su propia pequeña panadería. \"¿Cómo te volviste tan exitosa?\" preguntó. \"Aparecí cada día,\" dijo ella. \"Me dejé crecer. Jugué con mis fortalezas. Nunca huí del trabajo duro.\"\n\nCarlos habló con ella durante horas. Ella cambió cómo vivía. Trajo sus ideas a su propio plan. Para el final de ese año, su negocio comenzó a crecer. Aprendió que lo mejor que puedes hacer es aparecer, creer, y nunca dejar de avanzar."
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "code": "A2",
+      "label": "Elemental",
+      "color": "#40b8f0",
+      "total": 100,
+      "sublevels": [
+        {
+          "id": "a2_1",
+          "label": "51–75",
+          "words": [
+            "time",
+            "people",
+            "year",
+            "way",
+            "day",
+            "job",
+            "life",
+            "home",
+            "world",
+            "hand",
+            "room",
+            "money",
+            "name",
+            "place",
+            "family",
+            "friend",
+            "school",
+            "question",
+            "water",
+            "book",
+            "city",
+            "food",
+            "body",
+            "music",
+            "morning"
+          ],
+          "story": {
+            "title_en": "The City of Questions",
+            "title_es": "La ciudad de las preguntas",
+            "eyebrow": "A2 · Sub-nivel 1 · Palabras 51–75",
+            "tags": [
+              "time",
+              "people",
+              "year",
+              "way",
+              "day",
+              "job",
+              "life",
+              "home"
+            ],
+            "text_en": "Tom had not seen his <hw>family</hw> in three <hw>years</hw>. He had moved to a big <hw>city</hw> for a new <hw>job</hw>, and <hw>time</hw> had passed faster than he expected. Now, standing in his small <hw>room</hw>, he missed <hw>home</hw>.\n\nHe looked around at the <hw>people</hw> on the street below. Everyone moved in a different <hw>way</hw>, as if they each carried their own small <hw>world</hw>. He thought of his mother, who always had a <hw>book</hw> in her <hw>hand</hw> and a warm <hw>home</hw> full of <hw>music</hw>.\n\nEvery <hw>morning</hw> she had made breakfast — good <hw>food</hw> and cold <hw>water</hw>. She knew everyone's <hw>name</hw> in the neighbourhood. <hw>People</hw> would come to her with a <hw>question</hw> and leave with an answer and a smile. Her <hw>body</hw> was always busy, her <hw>life</hw> a rhythm of care and kindness.\n\nTom called her that <hw>day</hw>. \"I miss your cooking,\" he said. \"I miss <hw>school</hw> and the old <hw>place</hw>.\" She laughed. \"Come home soon,\" she said. \"I am saving your favourite <hw>food</hw>.\" He smiled. No amount of <hw>money</hw> could replace the <hw>way</hw> <hw>home</hw> feels.",
+            "text_es": "Tom no había visto a su familia en tres años. Se había mudado a una gran ciudad por un nuevo trabajo, y el tiempo había pasado más rápido de lo que esperaba. Ahora, de pie en su pequeña habitación, echaba de menos el hogar.\n\nMiró a las personas en la calle de abajo. Todos se movían de una manera diferente, como si cada uno llevara su propio pequeño mundo. Pensó en su madre, que siempre tenía un libro en la mano y un hogar cálido lleno de música.\n\nCada mañana ella hacía el desayuno — buena comida y agua fría. Conocía el nombre de todos en el vecindario. La gente venía a ella con una pregunta y se iba con una respuesta y una sonrisa. Su cuerpo siempre estaba ocupado, su vida era un ritmo de cuidado y amabilidad.\n\nTom la llamó ese día. \"Extraño tu cocina,\" dijo. \"Extraño la escuela y el viejo lugar.\" Ella se rió. \"Ven a casa pronto,\" dijo. \"Estoy guardando tu comida favorita.\" Él sonrió. Ninguna cantidad de dinero puede reemplazar la sensación del hogar."
+          }
+        },
+        {
+          "id": "a2_2",
+          "label": "76–100",
+          "words": [
+            "night",
+            "company",
+            "week",
+            "office",
+            "health",
+            "hour",
+            "street",
+            "eye",
+            "door",
+            "car",
+            "word",
+            "face",
+            "head",
+            "ground",
+            "light",
+            "power",
+            "mind",
+            "road",
+            "land",
+            "air",
+            "step",
+            "line",
+            "point",
+            "table",
+            "story"
+          ],
+          "story": {
+            "title_en": "One Long Night",
+            "title_es": "Una noche larga",
+            "eyebrow": "A2 · Sub-nivel 2 · Palabras 76–100",
+            "tags": [
+              "night",
+              "company",
+              "week",
+              "office",
+              "health",
+              "hour",
+              "street"
+            ],
+            "text_en": "Sofia walked down the <hw>street</hw> late at <hw>night</hw>. Every <hw>step</hw> she took felt heavy after a long <hw>week</hw> at the <hw>office</hw>. The <hw>air</hw> was cold, and the <hw>ground</hw> was wet. A single <hw>light</hw> glowed from a café on the corner.\n\nShe pushed open the <hw>door</hw> and sat down at a small <hw>table</hw>. A woman across from her was reading — her <hw>face</hw> calm, her <hw>head</hw> bent gently over the book. Sofia envied her peace. Her own <hw>mind</hw> was racing. The <hw>company</hw> was struggling. <hw>Health</hw> costs were rising. Every <hw>hour</hw> brought a new problem.\n\nShe opened her notebook and began to write. <hw>Word</hw> by <hw>word</hw>, a new <hw>story</hw> appeared — not a <hw>story</hw> about problems, but about <hw>power</hw>. Her own <hw>power</hw>. The <hw>road</hw> forward would not be straight. There would be <hw>lines</hw> to cross and <hw>points</hw> of no return. But the <hw>land</hw> ahead was still hers to shape.\n\nShe ordered coffee and looked out at the empty <hw>street</hw>. A <hw>car</hw> passed slowly. Her <hw>eyes</hw> found the <hw>light</hw> in the window and held it. There was still <hw>ground</hw> to stand on. There was still a <hw>step</hw> she could take. That was enough.",
+            "text_es": "Sofía caminó por la calle tarde en la noche. Cada paso que daba se sentía pesado después de una larga semana en la oficina. El aire estaba frío y el suelo estaba mojado. Una sola luz brillaba desde un café en la esquina.\n\nEmpujó la puerta y se sentó en una pequeña mesa. Una mujer frente a ella leía — su cara tranquila, su cabeza inclinada suavemente sobre el libro. Sofía la envidiaba. Su propia mente corría. La empresa tenía dificultades. Los costes de salud estaban subiendo. Cada hora traía un nuevo problema.\n\nAbrió su cuaderno y comenzó a escribir. Palabra por palabra, apareció una nueva historia — no una historia de problemas, sino de poder. Su propio poder. El camino hacia adelante no sería recto. Habría líneas que cruzar y puntos sin retorno. Pero la tierra de adelante aún era suya para moldear.\n\nPidió un café y miró la calle vacía. Un coche pasó lentamente. Sus ojos encontraron la luz en la ventana y la sostuvieron. Aún había suelo donde estar de pie. Aún había un paso que podía dar. Con eso era suficiente."
+          }
+        }
+      ]
+    }
+  ]
+}

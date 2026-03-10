@@ -1,0 +1,1964 @@
+{
+  "a": {
+    "es": "un/una",
+    "type": "artículo",
+    "ex_en": "She has a brilliant idea every single morning.",
+    "ex_es": "Ella tiene una idea brillante cada mañana."
+  },
+  "about": {
+    "es": "sobre/acerca de",
+    "type": "preposición",
+    "ex_en": "He talked about his dreams with great passion.",
+    "ex_es": "Él habló sobre sus sueños con gran pasión."
+  },
+  "across": {
+    "es": "a través/al otro lado",
+    "type": "preposición",
+    "ex_en": "She walked across the bridge without looking back.",
+    "ex_es": "Caminó a través del puente sin mirar atrás."
+  },
+  "admired": {
+    "es": "admiró/admiraba",
+    "type": "verbo",
+    "ex_en": "She admired people who worked hard and stayed kind.",
+    "ex_es": "Ella admiraba a las personas que trabajaban duro y seguían siendo amables."
+  },
+  "after": {
+    "es": "después de",
+    "type": "preposición",
+    "ex_en": "She felt much better after a long walk outside.",
+    "ex_es": "Se sintió mucho mejor después de un largo paseo afuera."
+  },
+  "ahead": {
+    "es": "adelante/por delante",
+    "type": "adverbio",
+    "ex_en": "The road ahead was long, but she was ready.",
+    "ex_es": "El camino por delante era largo, pero ella estaba lista."
+  },
+  "air": {
+    "es": "aire",
+    "type": "sustantivo",
+    "ex_en": "The fresh air helped her think more clearly.",
+    "ex_es": "El aire fresco le ayudó a pensar con más claridad."
+  },
+  "alarm": {
+    "es": "alarma/despertador",
+    "type": "sustantivo",
+    "ex_en": "Her alarm went off at six every morning.",
+    "ex_es": "Su alarma sonaba a las seis cada mañana."
+  },
+  "all": {
+    "es": "todo/todos",
+    "type": "determinante",
+    "ex_en": "All good things take time and effort.",
+    "ex_es": "Todas las cosas buenas requieren tiempo y esfuerzo."
+  },
+  "always": {
+    "es": "siempre",
+    "type": "adverbio",
+    "ex_en": "She always found a way to keep going.",
+    "ex_es": "Ella siempre encontraba una manera de seguir adelante."
+  },
+  "am": {
+    "es": "soy/estoy",
+    "type": "verbo",
+    "ex_en": "I am ready to face whatever comes today.",
+    "ex_es": "Estoy lista para enfrentar lo que sea que venga hoy."
+  },
+  "amount": {
+    "es": "cantidad",
+    "type": "sustantivo",
+    "ex_en": "No amount of money is worth your peace of mind.",
+    "ex_es": "Ninguna cantidad de dinero vale tu tranquilidad."
+  },
+  "an": {
+    "es": "un/una",
+    "type": "artículo",
+    "ex_en": "She took an hour every morning to read.",
+    "ex_es": "Ella tomaba una hora cada mañana para leer."
+  },
+  "and": {
+    "es": "y",
+    "type": "conjunción",
+    "ex_en": "She worked hard and never gave up on her dreams.",
+    "ex_es": "Ella trabajó duro y nunca renunció a sus sueños."
+  },
+  "answer": {
+    "es": "respuesta",
+    "type": "sustantivo",
+    "ex_en": "The answer was right in front of her all along.",
+    "ex_es": "La respuesta estuvo frente a ella todo el tiempo."
+  },
+  "any": {
+    "es": "algún/ningún",
+    "type": "determinante",
+    "ex_en": "Do you have any advice for someone just starting?",
+    "ex_es": "¿Tienes algún consejo para alguien que recién empieza?"
+  },
+  "appeared": {
+    "es": "apareció",
+    "type": "verbo",
+    "ex_en": "A solution appeared when she least expected it.",
+    "ex_es": "Una solución apareció cuando menos lo esperaba."
+  },
+  "around": {
+    "es": "alrededor de",
+    "type": "preposición",
+    "ex_en": "She looked around the room and smiled.",
+    "ex_es": "Ella miró alrededor de la habitación y sonrió."
+  },
+  "as": {
+    "es": "como/mientras",
+    "type": "conjunción",
+    "ex_en": "As she grew older, she grew wiser too.",
+    "ex_es": "A medida que crecía, también se volvía más sabia."
+  },
+  "ask": {
+    "es": "preguntar/pedir",
+    "type": "verbo",
+    "ex_en": "Always ask when you are unsure — it saves time.",
+    "ex_es": "Siempre pregunta cuando no estés seguro — ahorra tiempo."
+  },
+  "asked": {
+    "es": "preguntó/pidió",
+    "type": "verbo",
+    "ex_en": "She asked the right questions and found great answers.",
+    "ex_es": "Ella hizo las preguntas correctas y encontró grandes respuestas."
+  },
+  "asks": {
+    "es": "pregunta/pide",
+    "type": "verbo",
+    "ex_en": "She always asks thoughtful questions in meetings.",
+    "ex_es": "Ella siempre hace preguntas reflexivas en las reuniones."
+  },
+  "at": {
+    "es": "en/a",
+    "type": "preposición",
+    "ex_en": "She arrives at the office exactly at eight every day.",
+    "ex_es": "Ella llega a la oficina exactamente a las ocho cada día."
+  },
+  "bakery": {
+    "es": "panadería",
+    "type": "sustantivo",
+    "ex_en": "The smell from the bakery filled the whole street.",
+    "ex_es": "El olor de la panadería llenó toda la calle."
+  },
+  "be": {
+    "es": "ser/estar",
+    "type": "verbo",
+    "ex_en": "She wanted to be the best version of herself.",
+    "ex_es": "Ella quería ser la mejor versión de sí misma."
+  },
+  "became": {
+    "es": "se convirtió",
+    "type": "verbo",
+    "ex_en": "She became stronger with every challenge she faced.",
+    "ex_es": "Se volvió más fuerte con cada desafío que enfrentó."
+  },
+  "become": {
+    "es": "convertirse/volverse",
+    "type": "verbo",
+    "ex_en": "If you stay dedicated, you will become the best.",
+    "ex_es": "Si te mantienes dedicado, te convertirás en el mejor."
+  },
+  "began": {
+    "es": "comenzó/empezó",
+    "type": "verbo",
+    "ex_en": "She began writing every morning before sunrise.",
+    "ex_es": "Ella comenzó a escribir cada mañana antes del amanecer."
+  },
+  "believe": {
+    "es": "creer",
+    "type": "verbo",
+    "ex_en": "She believed in herself even when others did not.",
+    "ex_es": "Ella creyó en sí misma incluso cuando otros no lo hicieron."
+  },
+  "below": {
+    "es": "abajo/debajo",
+    "type": "adverbio",
+    "ex_en": "The city below was quiet at that early hour.",
+    "ex_es": "La ciudad de abajo estaba tranquila a esa hora temprana."
+  },
+  "bent": {
+    "es": "inclinado/doblado",
+    "type": "adjetivo",
+    "ex_en": "She sat with her head bent over the open notebook.",
+    "ex_es": "Ella se sentó con la cabeza inclinada sobre el cuaderno abierto."
+  },
+  "best": {
+    "es": "mejor/lo mejor",
+    "type": "adjetivo",
+    "ex_en": "She always gave her best, no matter what.",
+    "ex_es": "Ella siempre dio lo mejor de sí, sin importar qué."
+  },
+  "better": {
+    "es": "mejor",
+    "type": "adjetivo",
+    "ex_en": "Things got better once she changed her mindset.",
+    "ex_es": "Las cosas mejoraron una vez que cambió su mentalidad."
+  },
+  "big": {
+    "es": "grande",
+    "type": "adjetivo",
+    "ex_en": "She had a big dream and an even bigger work ethic.",
+    "ex_es": "Tenía un gran sueño y una ética de trabajo aún mayor."
+  },
+  "blue": {
+    "es": "azul",
+    "type": "adjetivo",
+    "ex_en": "The sky was a deep, clear blue that morning.",
+    "ex_es": "El cielo era un azul profundo y despejado esa mañana."
+  },
+  "body": {
+    "es": "cuerpo",
+    "type": "sustantivo",
+    "ex_en": "Listening to your body is a form of wisdom.",
+    "ex_es": "Escuchar a tu cuerpo es una forma de sabiduría."
+  },
+  "book": {
+    "es": "libro",
+    "type": "sustantivo",
+    "ex_en": "A good book can change how you see the world.",
+    "ex_es": "Un buen libro puede cambiar cómo ves el mundo."
+  },
+  "bread": {
+    "es": "pan",
+    "type": "sustantivo",
+    "ex_en": "She baked fresh bread every Sunday for her family.",
+    "ex_es": "Ella horneaba pan fresco cada domingo para su familia."
+  },
+  "breakfast": {
+    "es": "desayuno",
+    "type": "sustantivo",
+    "ex_en": "A healthy breakfast sets the tone for the whole day.",
+    "ex_es": "Un desayuno saludable establece el tono para todo el día."
+  },
+  "brought": {
+    "es": "trajo",
+    "type": "verbo",
+    "ex_en": "She brought fresh energy to every project she joined.",
+    "ex_es": "Ella trajo energía fresca a cada proyecto al que se unió."
+  },
+  "built": {
+    "es": "construyó",
+    "type": "verbo",
+    "ex_en": "She built her business from scratch with no help.",
+    "ex_es": "Ella construyó su negocio desde cero sin ayuda."
+  },
+  "business": {
+    "es": "negocio/empresa",
+    "type": "sustantivo",
+    "ex_en": "She ran her business with honesty and passion.",
+    "ex_es": "Ella dirigía su negocio con honestidad y pasión."
+  },
+  "busy": {
+    "es": "ocupado/activo",
+    "type": "adjetivo",
+    "ex_en": "Even on busy days, she made time for what mattered.",
+    "ex_es": "Incluso en los días ocupados, hacía tiempo para lo importante."
+  },
+  "but": {
+    "es": "pero",
+    "type": "conjunción",
+    "ex_en": "It was hard, but she kept going until the very end.",
+    "ex_es": "Era difícil, pero ella siguió adelante hasta el final."
+  },
+  "by": {
+    "es": "por/cerca de/para",
+    "type": "preposición",
+    "ex_en": "She finished every task by the time it was needed.",
+    "ex_es": "Ella terminaba cada tarea para cuando era necesario."
+  },
+  "cafe": {
+    "es": "café/cafetería",
+    "type": "sustantivo",
+    "ex_en": "She found her best ideas in a quiet corner cafe.",
+    "ex_es": "Encontraba sus mejores ideas en un tranquilo café de la esquina."
+  },
+  "call": {
+    "es": "llamar",
+    "type": "verbo",
+    "ex_en": "She would call her mother every Sunday without fail.",
+    "ex_es": "Ella llamaba a su madre cada domingo sin falta."
+  },
+  "called": {
+    "es": "llamó",
+    "type": "verbo",
+    "ex_en": "He called her the moment he heard the great news.",
+    "ex_es": "La llamó en el momento en que escuchó las grandes noticias."
+  },
+  "calm": {
+    "es": "tranquilo/sereno",
+    "type": "adjetivo",
+    "ex_en": "She stayed calm even when everything felt uncertain.",
+    "ex_es": "Se mantuvo tranquila incluso cuando todo parecía incierto."
+  },
+  "can": {
+    "es": "poder/saber",
+    "type": "verbo",
+    "ex_en": "She can speak three languages with total confidence.",
+    "ex_es": "Ella puede hablar tres idiomas con total confianza."
+  },
+  "car": {
+    "es": "coche/auto",
+    "type": "sustantivo",
+    "ex_en": "A car passed slowly on the empty night street.",
+    "ex_es": "Un coche pasó lentamente por la calle vacía de noche."
+  },
+  "care": {
+    "es": "cuidado/importar",
+    "type": "sustantivo",
+    "ex_en": "She gave genuine care to everyone around her.",
+    "ex_es": "Ella daba un cuidado genuino a todos a su alrededor."
+  },
+  "carried": {
+    "es": "llevó/cargó",
+    "type": "verbo",
+    "ex_en": "She carried her values into every decision she made.",
+    "ex_es": "Ella llevó sus valores a cada decisión que tomó."
+  },
+  "changed": {
+    "es": "cambió",
+    "type": "verbo",
+    "ex_en": "One conversation changed the direction of her life.",
+    "ex_es": "Una conversación cambió la dirección de su vida."
+  },
+  "city": {
+    "es": "ciudad",
+    "type": "sustantivo",
+    "ex_en": "The city pulsed with energy and endless possibility.",
+    "ex_es": "La ciudad palpitaba con energía y posibilidades infinitas."
+  },
+  "clear": {
+    "es": "claro/despejado",
+    "type": "adjetivo",
+    "ex_en": "The sky was clear and her mind was even clearer.",
+    "ex_es": "El cielo estaba despejado y su mente aún más despejada."
+  },
+  "coffee": {
+    "es": "café",
+    "type": "sustantivo",
+    "ex_en": "She started every morning with a strong cup of coffee.",
+    "ex_es": "Ella comenzaba cada mañana con una taza fuerte de café."
+  },
+  "cold": {
+    "es": "frío",
+    "type": "adjetivo",
+    "ex_en": "The cold air woke her senses and cleared her thoughts.",
+    "ex_es": "El aire frío despertó sus sentidos y aclaró sus pensamientos."
+  },
+  "come": {
+    "es": "venir",
+    "type": "verbo",
+    "ex_en": "Good things come to those who work and wait.",
+    "ex_es": "Las cosas buenas llegan a quienes trabajan y esperan."
+  },
+  "comes": {
+    "es": "viene/llega",
+    "type": "verbo",
+    "ex_en": "She comes to every meeting fully prepared.",
+    "ex_es": "Ella llega a cada reunión completamente preparada."
+  },
+  "company": {
+    "es": "empresa/compañía",
+    "type": "sustantivo",
+    "ex_en": "The company she built became known for its culture.",
+    "ex_es": "La empresa que construyó se hizo conocida por su cultura."
+  },
+  "completely": {
+    "es": "completamente",
+    "type": "adverbio",
+    "ex_en": "She was completely focused on the task at hand.",
+    "ex_es": "Estaba completamente concentrada en la tarea en cuestión."
+  },
+  "confidence": {
+    "es": "confianza/seguridad",
+    "type": "sustantivo",
+    "ex_en": "Confidence grows every time you do what scares you.",
+    "ex_es": "La confianza crece cada vez que haces lo que te da miedo."
+  },
+  "cooking": {
+    "es": "cocinar/la cocina",
+    "type": "sustantivo",
+    "ex_en": "Her cooking brought the whole family together each week.",
+    "ex_es": "Su cocina reunía a toda la familia cada semana."
+  },
+  "corner": {
+    "es": "esquina",
+    "type": "sustantivo",
+    "ex_en": "She sat in the corner, thinking through every option.",
+    "ex_es": "Ella se sentó en la esquina, pensando en cada opción."
+  },
+  "costs": {
+    "es": "costes/gastos",
+    "type": "sustantivo",
+    "ex_en": "Rising costs forced her to rethink her entire strategy.",
+    "ex_es": "Los costes crecientes la obligaron a repensar su estrategia."
+  },
+  "could": {
+    "es": "podía/pudo",
+    "type": "verbo",
+    "ex_en": "She could see the answer before anyone else.",
+    "ex_es": "Ella podía ver la respuesta antes que nadie."
+  },
+  "cross": {
+    "es": "cruzar",
+    "type": "verbo",
+    "ex_en": "Some lines should never be crossed, no matter what.",
+    "ex_es": "Algunas líneas nunca deben cruzarse, sin importar qué."
+  },
+  "day": {
+    "es": "día",
+    "type": "sustantivo",
+    "ex_en": "Every day is a fresh start and a new opportunity.",
+    "ex_es": "Cada día es un nuevo comienzo y una nueva oportunidad."
+  },
+  "decided": {
+    "es": "decidió",
+    "type": "verbo",
+    "ex_en": "She decided to take the harder but more rewarding path.",
+    "ex_es": "Decidió tomar el camino más difícil pero más gratificante."
+  },
+  "did": {
+    "es": "hizo",
+    "type": "verbo",
+    "ex_en": "She did what she promised, every single time.",
+    "ex_es": "Ella hizo lo que prometió, cada vez."
+  },
+  "different": {
+    "es": "diferente",
+    "type": "adjetivo",
+    "ex_en": "She saw the world in a completely different way.",
+    "ex_es": "Ella veía el mundo de una manera completamente diferente."
+  },
+  "do": {
+    "es": "hacer",
+    "type": "verbo",
+    "ex_en": "What you do every day defines who you become.",
+    "ex_es": "Lo que haces cada día define en quién te conviertes."
+  },
+  "door": {
+    "es": "puerta",
+    "type": "sustantivo",
+    "ex_en": "She pushed open the door and stepped into the light.",
+    "ex_es": "Empujó la puerta y entró a la luz."
+  },
+  "down": {
+    "es": "abajo",
+    "type": "adverbio",
+    "ex_en": "She wrote everything down so she would not forget.",
+    "ex_es": "Ella anotó todo para no olvidarlo."
+  },
+  "downstairs": {
+    "es": "abajo/planta baja",
+    "type": "adverbio",
+    "ex_en": "She came downstairs to find breakfast already ready.",
+    "ex_es": "Bajó para encontrar el desayuno ya listo."
+  },
+  "each": {
+    "es": "cada",
+    "type": "determinante",
+    "ex_en": "Each person on the team brought something unique.",
+    "ex_es": "Cada persona del equipo aportaba algo único."
+  },
+  "empty": {
+    "es": "vacío",
+    "type": "adjetivo",
+    "ex_en": "The empty street at night had a calming effect on her.",
+    "ex_es": "La calle vacía de noche tenía un efecto calmante en ella."
+  },
+  "end": {
+    "es": "fin/final",
+    "type": "sustantivo",
+    "ex_en": "In the end, consistency matters more than talent.",
+    "ex_es": "Al final, la constancia importa más que el talento."
+  },
+  "enough": {
+    "es": "suficiente",
+    "type": "adjetivo",
+    "ex_en": "She had done enough — it was time to rest.",
+    "ex_es": "Ella había hecho suficiente — era hora de descansar."
+  },
+  "evenings": {
+    "es": "tardes/noches",
+    "type": "sustantivo",
+    "ex_en": "She spent her evenings reading and reflecting on the day.",
+    "ex_es": "Pasaba las tardes leyendo y reflexionando sobre el día."
+  },
+  "every": {
+    "es": "cada/todo",
+    "type": "determinante",
+    "ex_en": "Every morning is a new chance to do something great.",
+    "ex_es": "Cada mañana es una nueva oportunidad de hacer algo genial."
+  },
+  "everyone": {
+    "es": "todos/todo el mundo",
+    "type": "pronombre",
+    "ex_en": "She made everyone feel welcomed and valued.",
+    "ex_es": "Ella hacía que todos se sintieran bienvenidos y valorados."
+  },
+  "everything": {
+    "es": "todo",
+    "type": "pronombre",
+    "ex_en": "She gave everything she had to the people she loved.",
+    "ex_es": "Ella dio todo lo que tenía a las personas que amaba."
+  },
+  "expected": {
+    "es": "esperaba/esperado",
+    "type": "verbo",
+    "ex_en": "The result was better than anyone had expected.",
+    "ex_es": "El resultado fue mejor de lo que nadie esperaba."
+  },
+  "eyes": {
+    "es": "ojos",
+    "type": "sustantivo",
+    "ex_en": "Her eyes sparkled when she talked about what she loved.",
+    "ex_es": "Sus ojos brillaban cuando hablaba de lo que amaba."
+  },
+  "face": {
+    "es": "cara/rostro",
+    "type": "sustantivo",
+    "ex_en": "Her face lit up the moment she heard the good news.",
+    "ex_es": "Su cara se iluminó en el momento en que escuchó las buenas noticias."
+  },
+  "family": {
+    "es": "familia",
+    "type": "sustantivo",
+    "ex_en": "Family is the foundation of everything she does.",
+    "ex_es": "La familia es la base de todo lo que ella hace."
+  },
+  "faster": {
+    "es": "más rápido",
+    "type": "adjetivo",
+    "ex_en": "Time always passes faster when you enjoy what you do.",
+    "ex_es": "El tiempo siempre pasa más rápido cuando disfrutas lo que haces."
+  },
+  "favourite": {
+    "es": "favorito",
+    "type": "adjetivo",
+    "ex_en": "Her favourite time of day was the quiet early morning.",
+    "ex_es": "Su momento favorito del día era la tranquila mañana temprana."
+  },
+  "feel": {
+    "es": "sentir/sentirse",
+    "type": "verbo",
+    "ex_en": "She could feel the moment beginning to shift.",
+    "ex_es": "Ella podía sentir que el momento estaba cambiando."
+  },
+  "feels": {
+    "es": "siente/parece",
+    "type": "verbo",
+    "ex_en": "It always feels better to take action than to wait.",
+    "ex_es": "Siempre se siente mejor actuar que esperar."
+  },
+  "felt": {
+    "es": "sintió/sentía",
+    "type": "verbo",
+    "ex_en": "She felt a deep sense of calm after making her decision.",
+    "ex_es": "Sintió una profunda calma después de tomar su decisión."
+  },
+  "find": {
+    "es": "encontrar",
+    "type": "verbo",
+    "ex_en": "She could always find a way when she needed one.",
+    "ex_es": "Ella siempre podía encontrar una manera cuando la necesitaba."
+  },
+  "finds": {
+    "es": "encuentra",
+    "type": "verbo",
+    "ex_en": "She finds something valuable in every experience.",
+    "ex_es": "Ella encuentra algo valioso en cada experiencia."
+  },
+  "followed": {
+    "es": "siguió",
+    "type": "verbo",
+    "ex_en": "She followed her instincts and they never failed her.",
+    "ex_es": "Siguió sus instintos y nunca la fallaron."
+  },
+  "food": {
+    "es": "comida/alimento",
+    "type": "sustantivo",
+    "ex_en": "Good food brings people together like nothing else.",
+    "ex_es": "La buena comida une a las personas como ninguna otra cosa."
+  },
+  "for": {
+    "es": "para/por",
+    "type": "preposición",
+    "ex_en": "She worked for years to make her dream a reality.",
+    "ex_es": "Ella trabajó por años para hacer su sueño realidad."
+  },
+  "forward": {
+    "es": "adelante/hacia adelante",
+    "type": "adverbio",
+    "ex_en": "She chose to move forward instead of looking back.",
+    "ex_es": "Eligió avanzar en lugar de mirar atrás."
+  },
+  "found": {
+    "es": "encontró",
+    "type": "verbo",
+    "ex_en": "She found her purpose by listening to her own instincts.",
+    "ex_es": "Encontró su propósito escuchando sus propios instintos."
+  },
+  "fresh": {
+    "es": "fresco/nuevo",
+    "type": "adjetivo",
+    "ex_en": "A fresh perspective can solve problems that seemed impossible.",
+    "ex_es": "Una perspectiva fresca puede resolver problemas que parecían imposibles."
+  },
+  "from": {
+    "es": "de/desde",
+    "type": "preposición",
+    "ex_en": "She learned everything she knew from years of experience.",
+    "ex_es": "Ella aprendió todo lo que sabía de años de experiencia."
+  },
+  "fuel": {
+    "es": "combustible/impulso",
+    "type": "sustantivo",
+    "ex_en": "Her passion was the fuel that kept her going every day.",
+    "ex_es": "Su pasión era el combustible que la mantenía en marcha cada día."
+  },
+  "full": {
+    "es": "lleno",
+    "type": "adjetivo",
+    "ex_en": "She lived a full life, rich with meaning and connection.",
+    "ex_es": "Vivió una vida plena, llena de significado y conexión."
+  },
+  "gently": {
+    "es": "suavemente",
+    "type": "adverbio",
+    "ex_en": "She gently placed the book on the table and smiled.",
+    "ex_es": "Colocó suavemente el libro sobre la mesa y sonrió."
+  },
+  "get": {
+    "es": "obtener/conseguir",
+    "type": "verbo",
+    "ex_en": "If you work hard enough, you will get there eventually.",
+    "ex_es": "Si trabajas lo suficientemente duro, llegarás eventualmente."
+  },
+  "gets": {
+    "es": "obtiene/consigue",
+    "type": "verbo",
+    "ex_en": "She gets up before sunrise to prepare for the day.",
+    "ex_es": "Ella se levanta antes del amanecer para prepararse para el día."
+  },
+  "give": {
+    "es": "dar",
+    "type": "verbo",
+    "ex_en": "She always tried to give more than she took.",
+    "ex_es": "Ella siempre intentaba dar más de lo que recibía."
+  },
+  "glowed": {
+    "es": "brilló/resplandecía",
+    "type": "verbo",
+    "ex_en": "A single light glowed from the window of her room.",
+    "ex_es": "Una sola luz brillaba desde la ventana de su habitación."
+  },
+  "go": {
+    "es": "ir",
+    "type": "verbo",
+    "ex_en": "She would go the extra mile for the people she loved.",
+    "ex_es": "Ella haría el esfuerzo extra por las personas que amaba."
+  },
+  "goes": {
+    "es": "va",
+    "type": "verbo",
+    "ex_en": "Time goes by faster when you are living with purpose.",
+    "ex_es": "El tiempo pasa más rápido cuando vives con propósito."
+  },
+  "going": {
+    "es": "yendo/siguiendo",
+    "type": "verbo",
+    "ex_en": "She kept going even when everything felt impossible.",
+    "ex_es": "Ella siguió adelante incluso cuando todo parecía imposible."
+  },
+  "good": {
+    "es": "bueno/bien",
+    "type": "adjetivo",
+    "ex_en": "A good attitude can change the outcome of any situation.",
+    "ex_es": "Una buena actitud puede cambiar el resultado de cualquier situación."
+  },
+  "ground": {
+    "es": "suelo/terreno",
+    "type": "sustantivo",
+    "ex_en": "She stood her ground and defended what she believed in.",
+    "ex_es": "Se mantuvo firme y defendió lo que creía."
+  },
+  "grow": {
+    "es": "crecer",
+    "type": "verbo",
+    "ex_en": "She allowed herself to grow through every difficulty.",
+    "ex_es": "Se permitió crecer a través de cada dificultad."
+  },
+  "had": {
+    "es": "había/tenía",
+    "type": "verbo",
+    "ex_en": "She had worked on this dream for over a decade.",
+    "ex_es": "Ella había trabajado en este sueño por más de una década."
+  },
+  "hand": {
+    "es": "mano",
+    "type": "sustantivo",
+    "ex_en": "She extended her hand and offered help without hesitation.",
+    "ex_es": "Extendió su mano y ofreció ayuda sin dudarlo."
+  },
+  "happens": {
+    "es": "pasa/ocurre",
+    "type": "verbo",
+    "ex_en": "What happens when you truly commit to a goal?",
+    "ex_es": "¿Qué pasa cuando realmente te comprometes con una meta?"
+  },
+  "hard": {
+    "es": "duro/difícil",
+    "type": "adjetivo",
+    "ex_en": "Hard work is the most reliable path to real success.",
+    "ex_es": "El trabajo duro es el camino más confiable al éxito real."
+  },
+  "have": {
+    "es": "tener/haber",
+    "type": "verbo",
+    "ex_en": "You have to believe in yourself before anyone else will.",
+    "ex_es": "Tienes que creer en ti mismo antes de que cualquier otro lo haga."
+  },
+  "he": {
+    "es": "él",
+    "type": "pronombre",
+    "ex_en": "He chose the harder path and it made all the difference.",
+    "ex_es": "Él eligió el camino más difícil y eso cambió todo."
+  },
+  "head": {
+    "es": "cabeza",
+    "type": "sustantivo",
+    "ex_en": "She kept her head clear even in the most stressful moments.",
+    "ex_es": "Mantuvo la cabeza despejada incluso en los momentos más estresantes."
+  },
+  "health": {
+    "es": "salud",
+    "type": "sustantivo",
+    "ex_en": "Good health is the foundation of everything else in life.",
+    "ex_es": "La buena salud es la base de todo lo demás en la vida."
+  },
+  "heavy": {
+    "es": "pesado",
+    "type": "adjetivo",
+    "ex_en": "Her steps felt heavy, but she kept walking forward.",
+    "ex_es": "Sus pasos se sentían pesados, pero ella seguía caminando adelante."
+  },
+  "held": {
+    "es": "sostuvo/mantuvo",
+    "type": "verbo",
+    "ex_en": "She held on to her dream in the darkest of moments.",
+    "ex_es": "Se aferró a su sueño en los momentos más oscuros."
+  },
+  "help": {
+    "es": "ayudar",
+    "type": "verbo",
+    "ex_en": "She was always ready to help without being asked.",
+    "ex_es": "Siempre estaba lista para ayudar sin que se lo pidieran."
+  },
+  "her": {
+    "es": "su/ella/la",
+    "type": "pronombre",
+    "ex_en": "Her dedication inspired everyone she worked with.",
+    "ex_es": "Su dedicación inspiró a todos con quienes trabajó."
+  },
+  "hers": {
+    "es": "suyo (de ella)",
+    "type": "pronombre",
+    "ex_en": "The victory was hers after years of consistent hard work.",
+    "ex_es": "La victoria era suya después de años de trabajo duro constante."
+  },
+  "herself": {
+    "es": "ella misma",
+    "type": "pronombre",
+    "ex_en": "She pushed herself to achieve more than she thought possible.",
+    "ex_es": "Se empujó a lograr más de lo que creía posible."
+  },
+  "himself": {
+    "es": "él mismo",
+    "type": "pronombre",
+    "ex_en": "He taught himself to code in just three months.",
+    "ex_es": "Se enseñó a programar en solo tres meses."
+  },
+  "his": {
+    "es": "su (de él)",
+    "type": "pronombre",
+    "ex_en": "His dedication to the work set him apart from everyone.",
+    "ex_es": "Su dedicación al trabajo lo distinguía de todos."
+  },
+  "home": {
+    "es": "hogar/casa",
+    "type": "sustantivo",
+    "ex_en": "Home is not a place — it is a feeling of belonging.",
+    "ex_es": "El hogar no es un lugar — es una sensación de pertenencia."
+  },
+  "hour": {
+    "es": "hora",
+    "type": "sustantivo",
+    "ex_en": "She devoted one focused hour every day to learning.",
+    "ex_es": "Dedicaba una hora enfocada cada día al aprendizaje."
+  },
+  "hours": {
+    "es": "horas",
+    "type": "sustantivo",
+    "ex_en": "She spent hours perfecting every detail of the project.",
+    "ex_es": "Pasó horas perfeccionando cada detalle del proyecto."
+  },
+  "how": {
+    "es": "cómo",
+    "type": "adverbio",
+    "ex_en": "She studied how the best people in her field worked.",
+    "ex_es": "Estudió cómo trabajaban las mejores personas en su campo."
+  },
+  "i": {
+    "es": "yo",
+    "type": "pronombre",
+    "ex_en": "I believe that consistent effort always produces results.",
+    "ex_es": "Yo creo que el esfuerzo constante siempre produce resultados."
+  },
+  "ideas": {
+    "es": "ideas",
+    "type": "sustantivo",
+    "ex_en": "She kept a notebook full of ideas for future projects.",
+    "ex_es": "Mantenía un cuaderno lleno de ideas para proyectos futuros."
+  },
+  "if": {
+    "es": "si",
+    "type": "conjunción",
+    "ex_en": "If you believe in yourself, the possibilities are endless.",
+    "ex_es": "Si crees en ti mismo, las posibilidades son infinitas."
+  },
+  "in": {
+    "es": "en/dentro de",
+    "type": "preposición",
+    "ex_en": "She found strength in the small wins along the way.",
+    "ex_es": "Encontró fuerza en las pequeñas victorias en el camino."
+  },
+  "into": {
+    "es": "hacia/dentro de",
+    "type": "preposición",
+    "ex_en": "She poured her heart into every project she touched.",
+    "ex_es": "Puso su corazón en cada proyecto que tocó."
+  },
+  "is": {
+    "es": "es/está",
+    "type": "verbo",
+    "ex_en": "She is the most determined person on the team.",
+    "ex_es": "Ella es la persona más decidida del equipo."
+  },
+  "it": {
+    "es": "ello/esto",
+    "type": "pronombre",
+    "ex_en": "It takes courage to try something completely new.",
+    "ex_es": "Se necesita valentía para intentar algo completamente nuevo."
+  },
+  "job": {
+    "es": "trabajo/empleo",
+    "type": "sustantivo",
+    "ex_en": "A job you love rarely feels like work at all.",
+    "ex_es": "Un trabajo que amas rara vez se siente como trabajo."
+  },
+  "just": {
+    "es": "solo/justo",
+    "type": "adverbio",
+    "ex_en": "She had just finished when the great opportunity arrived.",
+    "ex_es": "Ella acababa de terminar cuando llegó la gran oportunidad."
+  },
+  "keep": {
+    "es": "mantener/seguir",
+    "type": "verbo",
+    "ex_en": "She would keep going no matter how hard things got.",
+    "ex_es": "Seguiría adelante sin importar lo difícil que se pusieran las cosas."
+  },
+  "kindness": {
+    "es": "amabilidad/bondad",
+    "type": "sustantivo",
+    "ex_en": "Her kindness made every person feel seen and valued.",
+    "ex_es": "Su amabilidad hacía que cada persona se sintiera vista y valorada."
+  },
+  "kitchen": {
+    "es": "cocina",
+    "type": "sustantivo",
+    "ex_en": "The kitchen smelled of fresh bread every Sunday morning.",
+    "ex_es": "La cocina olía a pan fresco cada domingo por la mañana."
+  },
+  "knew": {
+    "es": "sabía/conocía",
+    "type": "verbo",
+    "ex_en": "Deep down, she always knew she was on the right path.",
+    "ex_es": "En el fondo, siempre supo que estaba en el camino correcto."
+  },
+  "know": {
+    "es": "saber/conocer",
+    "type": "verbo",
+    "ex_en": "To know yourself is the beginning of all wisdom.",
+    "ex_es": "Conocerse a uno mismo es el comienzo de toda sabiduría."
+  },
+  "land": {
+    "es": "tierra/terreno",
+    "type": "sustantivo",
+    "ex_en": "The land ahead was still hers to shape and explore.",
+    "ex_es": "La tierra por delante aún era suya para moldear y explorar."
+  },
+  "late": {
+    "es": "tarde",
+    "type": "adjetivo",
+    "ex_en": "She stayed late to ensure the work was truly perfect.",
+    "ex_es": "Se quedó hasta tarde para asegurarse de que el trabajo fuera perfecto."
+  },
+  "laughed": {
+    "es": "se rió/rió",
+    "type": "verbo",
+    "ex_en": "She laughed and it immediately brightened the whole room.",
+    "ex_es": "Se rió y de inmediato iluminó toda la habitación."
+  },
+  "learned": {
+    "es": "aprendió",
+    "type": "verbo",
+    "ex_en": "She learned something new from every difficult situation.",
+    "ex_es": "Aprendió algo nuevo de cada situación difícil."
+  },
+  "learning": {
+    "es": "aprendiendo/aprendizaje",
+    "type": "verbo",
+    "ex_en": "She believed that learning never truly stops.",
+    "ex_es": "Ella creía que el aprendizaje nunca se detiene verdaderamente."
+  },
+  "leave": {
+    "es": "irse/dejar",
+    "type": "verbo",
+    "ex_en": "She chose to leave and build something of her own.",
+    "ex_es": "Eligió irse y construir algo propio."
+  },
+  "let": {
+    "es": "dejar/permitir",
+    "type": "verbo",
+    "ex_en": "She let her work speak for itself, always.",
+    "ex_es": "Dejó que su trabajo hablara por sí solo, siempre."
+  },
+  "life": {
+    "es": "vida",
+    "type": "sustantivo",
+    "ex_en": "She designed her life around the things that mattered most.",
+    "ex_es": "Diseñó su vida alrededor de las cosas que más importaban."
+  },
+  "light": {
+    "es": "luz",
+    "type": "sustantivo",
+    "ex_en": "A single light in the distance gave her hope.",
+    "ex_es": "Una sola luz en la distancia le dio esperanza."
+  },
+  "like": {
+    "es": "como/gustar",
+    "type": "preposición",
+    "ex_en": "She worked like she had something to prove every day.",
+    "ex_es": "Trabajaba como si tuviera algo que demostrar cada día."
+  },
+  "lines": {
+    "es": "líneas",
+    "type": "sustantivo",
+    "ex_en": "She understood which lines should never be crossed.",
+    "ex_es": "Entendía qué líneas nunca debían cruzarse."
+  },
+  "lived": {
+    "es": "vivió/vivía",
+    "type": "verbo",
+    "ex_en": "She lived every day with intention and gratitude.",
+    "ex_es": "Vivió cada día con intención y gratitud."
+  },
+  "loaf": {
+    "es": "barra/hogaza de pan",
+    "type": "sustantivo",
+    "ex_en": "She found a fresh loaf on the kitchen counter.",
+    "ex_es": "Encontró una barra fresca en el mostrador de la cocina."
+  },
+  "local": {
+    "es": "local/de la zona",
+    "type": "adjetivo",
+    "ex_en": "She supported every local business in the neighbourhood.",
+    "ex_es": "Apoyaba cada negocio local del vecindario."
+  },
+  "long": {
+    "es": "largo/mucho tiempo",
+    "type": "adjetivo",
+    "ex_en": "She had worked a long time for this moment.",
+    "ex_es": "Había trabajado mucho tiempo para este momento."
+  },
+  "looked": {
+    "es": "miró/parecía",
+    "type": "verbo",
+    "ex_en": "She looked at every problem as a hidden opportunity.",
+    "ex_es": "Veía cada problema como una oportunidad escondida."
+  },
+  "looks": {
+    "es": "mira/parece",
+    "type": "verbo",
+    "ex_en": "She looks at the world with curiosity and wonder.",
+    "ex_es": "Ella mira el mundo con curiosidad y asombro."
+  },
+  "love": {
+    "es": "amar/amor",
+    "type": "verbo",
+    "ex_en": "She chose to do work she could truly love.",
+    "ex_es": "Eligió hacer un trabajo que pudiera verdaderamente amar."
+  },
+  "made": {
+    "es": "hizo/preparó",
+    "type": "verbo",
+    "ex_en": "She made every person feel important and heard.",
+    "ex_es": "Ella hacía que cada persona se sintiera importante y escuchada."
+  },
+  "makes": {
+    "es": "hace/prepara",
+    "type": "verbo",
+    "ex_en": "She makes time for what matters, always.",
+    "ex_es": "Ella hace tiempo para lo que importa, siempre."
+  },
+  "market": {
+    "es": "mercado",
+    "type": "sustantivo",
+    "ex_en": "She found her business partner at a local weekend market.",
+    "ex_es": "Encontró a su socia de negocios en un mercado local de fin de semana."
+  },
+  "matter": {
+    "es": "importar",
+    "type": "verbo",
+    "ex_en": "She focused only on things that would truly matter.",
+    "ex_es": "Se enfocó solo en cosas que verdaderamente importarían."
+  },
+  "me": {
+    "es": "me/mí",
+    "type": "pronombre",
+    "ex_en": "She gave me the best piece of advice I had ever heard.",
+    "ex_es": "Ella me dio el mejor consejo que jamás había escuchado."
+  },
+  "met": {
+    "es": "conoció/se encontró",
+    "type": "verbo",
+    "ex_en": "She met her greatest mentor in the most unexpected place.",
+    "ex_es": "Conoció a su mejor mentora en el lugar más inesperado."
+  },
+  "mind": {
+    "es": "mente",
+    "type": "sustantivo",
+    "ex_en": "She kept an open mind and never stopped learning.",
+    "ex_es": "Mantuvo una mente abierta y nunca dejó de aprender."
+  },
+  "miss": {
+    "es": "extrañar",
+    "type": "verbo",
+    "ex_en": "She began to miss home the moment she left.",
+    "ex_es": "Comenzó a extrañar el hogar en el momento en que partió."
+  },
+  "missed": {
+    "es": "extrañó/echó de menos",
+    "type": "verbo",
+    "ex_en": "She missed the small rituals that once defined her days.",
+    "ex_es": "Extrañó los pequeños rituales que alguna vez definieron sus días."
+  },
+  "money": {
+    "es": "dinero",
+    "type": "sustantivo",
+    "ex_en": "No amount of money can replace a sense of purpose.",
+    "ex_es": "Ninguna cantidad de dinero puede reemplazar un sentido de propósito."
+  },
+  "morning": {
+    "es": "mañana",
+    "type": "sustantivo",
+    "ex_en": "Every morning is a clean slate and a new beginning.",
+    "ex_es": "Cada mañana es una hoja en blanco y un nuevo comienzo."
+  },
+  "mother": {
+    "es": "madre",
+    "type": "sustantivo",
+    "ex_en": "Her mother taught her that kindness is always the answer.",
+    "ex_es": "Su madre le enseñó que la amabilidad siempre es la respuesta."
+  },
+  "move": {
+    "es": "moverse/mudarse",
+    "type": "verbo",
+    "ex_en": "She decided to move forward instead of standing still.",
+    "ex_es": "Decidió avanzar en lugar de quedarse quieta."
+  },
+  "moved": {
+    "es": "se mudó/se movió",
+    "type": "verbo",
+    "ex_en": "She moved to a new city and started her life over.",
+    "ex_es": "Se mudó a una nueva ciudad y comenzó su vida de nuevo."
+  },
+  "moving": {
+    "es": "moviéndose/avanzando",
+    "type": "verbo",
+    "ex_en": "She kept moving forward no matter what came her way.",
+    "ex_es": "Siguió avanzando sin importar lo que le viniera."
+  },
+  "music": {
+    "es": "música",
+    "type": "sustantivo",
+    "ex_en": "Music has the power to shift your mood in seconds.",
+    "ex_es": "La música tiene el poder de cambiar tu estado de ánimo en segundos."
+  },
+  "my": {
+    "es": "mi/mis",
+    "type": "pronombre",
+    "ex_en": "My greatest strength is my ability to keep going.",
+    "ex_es": "Mi mayor fortaleza es mi capacidad de seguir adelante."
+  },
+  "myself": {
+    "es": "yo mismo/me",
+    "type": "pronombre",
+    "ex_en": "I asked myself what truly mattered at that moment.",
+    "ex_es": "Me pregunté qué importaba verdaderamente en ese momento."
+  },
+  "name": {
+    "es": "nombre",
+    "type": "sustantivo",
+    "ex_en": "She wanted her name to stand for excellence.",
+    "ex_es": "Quería que su nombre representara la excelencia."
+  },
+  "need": {
+    "es": "necesitar",
+    "type": "verbo",
+    "ex_en": "You only need one great opportunity to change everything.",
+    "ex_es": "Solo necesitas una gran oportunidad para cambiarlo todo."
+  },
+  "neighbourhood": {
+    "es": "vecindario/barrio",
+    "type": "sustantivo",
+    "ex_en": "She knew every family in the neighbourhood by name.",
+    "ex_es": "Conocía a cada familia del vecindario por su nombre."
+  },
+  "never": {
+    "es": "nunca",
+    "type": "adverbio",
+    "ex_en": "She never stopped believing, even in the hardest moments.",
+    "ex_es": "Nunca dejó de creer, incluso en los momentos más difíciles."
+  },
+  "new": {
+    "es": "nuevo",
+    "type": "adjetivo",
+    "ex_en": "Every new challenge is a hidden opportunity to grow.",
+    "ex_es": "Cada nuevo desafío es una oportunidad escondida de crecer."
+  },
+  "night": {
+    "es": "noche",
+    "type": "sustantivo",
+    "ex_en": "Late at night was when her best ideas came to her.",
+    "ex_es": "Tarde en la noche era cuando sus mejores ideas la encontraban."
+  },
+  "no": {
+    "es": "no/ningún",
+    "type": "determinante",
+    "ex_en": "There is no easy shortcut to meaningful success.",
+    "ex_es": "No hay atajo fácil hacia el éxito significativo."
+  },
+  "not": {
+    "es": "no",
+    "type": "adverbio",
+    "ex_en": "She did not quit when it got hard — she pushed through.",
+    "ex_es": "No se rindió cuando se puso difícil — lo superó."
+  },
+  "notebook": {
+    "es": "cuaderno",
+    "type": "sustantivo",
+    "ex_en": "She filled her notebook with ideas, plans, and reflections.",
+    "ex_es": "Llenó su cuaderno con ideas, planes y reflexiones."
+  },
+  "now": {
+    "es": "ahora",
+    "type": "adverbio",
+    "ex_en": "Now is always the perfect time to start something new.",
+    "ex_es": "Ahora siempre es el momento perfecto para comenzar algo nuevo."
+  },
+  "of": {
+    "es": "de",
+    "type": "preposición",
+    "ex_en": "The smell of fresh coffee filled the entire kitchen.",
+    "ex_es": "El olor del café fresco llenó toda la cocina."
+  },
+  "off": {
+    "es": "fuera/apagado",
+    "type": "adverbio",
+    "ex_en": "The alarm went off and the new day began.",
+    "ex_es": "La alarma sonó y el nuevo día comenzó."
+  },
+  "office": {
+    "es": "oficina",
+    "type": "sustantivo",
+    "ex_en": "She transformed her office into a space of creativity.",
+    "ex_es": "Transformó su oficina en un espacio de creatividad."
+  },
+  "old": {
+    "es": "viejo/antiguo",
+    "type": "adjetivo",
+    "ex_en": "She missed the old place where she had grown up.",
+    "ex_es": "Echaba de menos el viejo lugar donde había crecido."
+  },
+  "on": {
+    "es": "en/sobre",
+    "type": "preposición",
+    "ex_en": "She kept her focus on what truly mattered most.",
+    "ex_es": "Mantuvo su enfoque en lo que verdaderamente más importaba."
+  },
+  "open": {
+    "es": "abierto/abrir",
+    "type": "adjetivo",
+    "ex_en": "She kept an open heart and an open mind always.",
+    "ex_es": "Mantuvo un corazón abierto y una mente abierta siempre."
+  },
+  "opened": {
+    "es": "abrió",
+    "type": "verbo",
+    "ex_en": "She opened her notebook and began to write freely.",
+    "ex_es": "Abrió su cuaderno y comenzó a escribir libremente."
+  },
+  "ordered": {
+    "es": "pidió/ordenó",
+    "type": "verbo",
+    "ex_en": "She ordered a coffee and sat quietly to think.",
+    "ex_es": "Pidió un café y se sentó tranquilamente a pensar."
+  },
+  "out": {
+    "es": "fuera/afuera",
+    "type": "adverbio",
+    "ex_en": "She stepped out to get some fresh morning air.",
+    "ex_es": "Salió a tomar un poco de aire fresco de la mañana."
+  },
+  "over": {
+    "es": "sobre/terminado",
+    "type": "preposición",
+    "ex_en": "The difficult part was over — now came the reward.",
+    "ex_es": "La parte difícil había terminado — ahora venía la recompensa."
+  },
+  "own": {
+    "es": "propio",
+    "type": "adjetivo",
+    "ex_en": "She built her own path and was proud of every step.",
+    "ex_es": "Construyó su propio camino y estaba orgullosa de cada paso."
+  },
+  "passed": {
+    "es": "pasó",
+    "type": "verbo",
+    "ex_en": "Time passed quickly when she was lost in her work.",
+    "ex_es": "El tiempo pasó rápidamente cuando estaba absorta en su trabajo."
+  },
+  "peace": {
+    "es": "paz",
+    "type": "sustantivo",
+    "ex_en": "She found her greatest peace in simple, quiet mornings.",
+    "ex_es": "Encontró su mayor paz en las mañanas simples y tranquilas."
+  },
+  "people": {
+    "es": "personas/gente",
+    "type": "sustantivo",
+    "ex_en": "The best people lift others up as they rise.",
+    "ex_es": "Las mejores personas elevan a los demás mientras suben."
+  },
+  "place": {
+    "es": "lugar",
+    "type": "sustantivo",
+    "ex_en": "She created a place where good ideas could truly grow.",
+    "ex_es": "Creó un lugar donde las buenas ideas podían crecer de verdad."
+  },
+  "plan": {
+    "es": "plan",
+    "type": "sustantivo",
+    "ex_en": "She had a clear plan and the discipline to follow it.",
+    "ex_es": "Tenía un plan claro y la disciplina para seguirlo."
+  },
+  "played": {
+    "es": "jugó/tocó",
+    "type": "verbo",
+    "ex_en": "She played to her strengths and minimized her weaknesses.",
+    "ex_es": "Jugó con sus fortalezas y minimizó sus debilidades."
+  },
+  "points": {
+    "es": "puntos",
+    "type": "sustantivo",
+    "ex_en": "She made her key points clearly and without hesitation.",
+    "ex_es": "Hizo sus puntos clave claramente y sin vacilar."
+  },
+  "power": {
+    "es": "poder",
+    "type": "sustantivo",
+    "ex_en": "She discovered the real power of believing in herself.",
+    "ex_es": "Descubrió el poder real de creer en sí misma."
+  },
+  "problem": {
+    "es": "problema",
+    "type": "sustantivo",
+    "ex_en": "Every problem is a hidden opportunity if you look closely.",
+    "ex_es": "Cada problema es una oportunidad escondida si miras de cerca."
+  },
+  "problems": {
+    "es": "problemas",
+    "type": "sustantivo",
+    "ex_en": "She faced her problems head-on and came out stronger.",
+    "ex_es": "Enfrentó sus problemas de frente y salió más fuerte."
+  },
+  "pushed": {
+    "es": "empujó/superó",
+    "type": "verbo",
+    "ex_en": "She pushed through every setback without losing her faith.",
+    "ex_es": "Superó cada contratiempo sin perder su fe."
+  },
+  "question": {
+    "es": "pregunta",
+    "type": "sustantivo",
+    "ex_en": "A good question is often better than a quick answer.",
+    "ex_es": "Una buena pregunta es a menudo mejor que una respuesta rápida."
+  },
+  "racing": {
+    "es": "corriendo/acelerado",
+    "type": "verbo",
+    "ex_en": "Her mind was racing, but she chose to write it all out.",
+    "ex_es": "Su mente estaba acelerada, pero eligió escribirlo todo."
+  },
+  "ran": {
+    "es": "corrió/huyó",
+    "type": "verbo",
+    "ex_en": "She never ran from hard work — she embraced it.",
+    "ex_es": "Nunca huyó del trabajo duro — lo abrazó."
+  },
+  "read": {
+    "es": "leer/leyó",
+    "type": "verbo",
+    "ex_en": "She read every book she could find on the topic.",
+    "ex_es": "Leyó todos los libros que pudo encontrar sobre el tema."
+  },
+  "reading": {
+    "es": "leyendo",
+    "type": "verbo",
+    "ex_en": "Reading every morning became her favourite daily ritual.",
+    "ex_es": "Leer cada mañana se convirtió en su ritual diario favorito."
+  },
+  "ready": {
+    "es": "listo/preparado",
+    "type": "adjetivo",
+    "ex_en": "She was always ready to take on whatever came next.",
+    "ex_es": "Siempre estaba lista para afrontar lo que viniera a continuación."
+  },
+  "replace": {
+    "es": "reemplazar",
+    "type": "verbo",
+    "ex_en": "Nothing could replace the warmth of a true home.",
+    "ex_es": "Nada podía reemplazar el calor de un hogar verdadero."
+  },
+  "replies": {
+    "es": "responde",
+    "type": "verbo",
+    "ex_en": "She always replies quickly and clearly in every message.",
+    "ex_es": "Ella siempre responde rápida y claramente en cada mensaje."
+  },
+  "return": {
+    "es": "regreso/volver",
+    "type": "sustantivo",
+    "ex_en": "There are points of no return on every important journey.",
+    "ex_es": "Hay puntos de no retorno en cada viaje importante."
+  },
+  "rhythm": {
+    "es": "ritmo",
+    "type": "sustantivo",
+    "ex_en": "She found a rhythm that worked and she stuck to it.",
+    "ex_es": "Encontró un ritmo que funcionaba y se mantuvo en él."
+  },
+  "rising": {
+    "es": "subiendo/creciendo",
+    "type": "verbo",
+    "ex_en": "She watched the sun rising and felt completely renewed.",
+    "ex_es": "Vio el sol saliendo y se sintió completamente renovada."
+  },
+  "road": {
+    "es": "camino/carretera",
+    "type": "sustantivo",
+    "ex_en": "The road to her goal was long but worth every step.",
+    "ex_es": "El camino hacia su meta era largo pero valió cada paso."
+  },
+  "room": {
+    "es": "habitación/sala",
+    "type": "sustantivo",
+    "ex_en": "The room fell silent the moment she walked in.",
+    "ex_es": "La habitación quedó en silencio en el momento en que entró."
+  },
+  "said": {
+    "es": "dijo",
+    "type": "verbo",
+    "ex_en": "She said what she meant and always meant what she said.",
+    "ex_es": "Dijo lo que pensaba y siempre pensó lo que decía."
+  },
+  "sat": {
+    "es": "se sentó",
+    "type": "verbo",
+    "ex_en": "She sat quietly by the window and gathered her thoughts.",
+    "ex_es": "Se sentó tranquilamente junto a la ventana y reunió sus pensamientos."
+  },
+  "saving": {
+    "es": "guardando/ahorrando",
+    "type": "verbo",
+    "ex_en": "She had been saving her energy for this exact moment.",
+    "ex_es": "Había estado guardando su energía para este preciso momento."
+  },
+  "say": {
+    "es": "decir",
+    "type": "verbo",
+    "ex_en": "What you say and how you say it both matter deeply.",
+    "ex_es": "Lo que dices y cómo lo dices importan profundamente."
+  },
+  "says": {
+    "es": "dice",
+    "type": "verbo",
+    "ex_en": "She always says what she truly thinks, with kindness.",
+    "ex_es": "Ella siempre dice lo que verdaderamente piensa, con amabilidad."
+  },
+  "school": {
+    "es": "escuela/colegio",
+    "type": "sustantivo",
+    "ex_en": "School teaches you facts, but experience teaches you wisdom.",
+    "ex_es": "La escuela te enseña hechos, pero la experiencia te enseña sabiduría."
+  },
+  "see": {
+    "es": "ver",
+    "type": "verbo",
+    "ex_en": "She could see what others missed by looking more closely.",
+    "ex_es": "Podía ver lo que otros perdían mirando con más atención."
+  },
+  "seen": {
+    "es": "visto",
+    "type": "verbo",
+    "ex_en": "She had seen enough to know what truly mattered.",
+    "ex_es": "Había visto suficiente para saber qué verdaderamente importaba."
+  },
+  "sees": {
+    "es": "ve",
+    "type": "verbo",
+    "ex_en": "She sees potential in people that they cannot see themselves.",
+    "ex_es": "Ella ve potencial en las personas que ellas mismas no pueden ver."
+  },
+  "seven": {
+    "es": "siete",
+    "type": "número",
+    "ex_en": "She was at her desk by seven every single morning.",
+    "ex_es": "Estaba en su escritorio a las siete cada mañana."
+  },
+  "shape": {
+    "es": "forma/moldear",
+    "type": "verbo",
+    "ex_en": "She had the power to shape her own future.",
+    "ex_es": "Tenía el poder de moldear su propio futuro."
+  },
+  "she": {
+    "es": "ella",
+    "type": "pronombre",
+    "ex_en": "She worked hard every day to achieve her goals.",
+    "ex_es": "Ella trabajaba duro cada día para lograr sus metas."
+  },
+  "show": {
+    "es": "mostrar/demostrar",
+    "type": "verbo",
+    "ex_en": "She would show up every day, no matter what.",
+    "ex_es": "Ella aparecía cada día, sin importar qué."
+  },
+  "showed": {
+    "es": "mostró",
+    "type": "verbo",
+    "ex_en": "She showed remarkable courage every time it was needed.",
+    "ex_es": "Mostró un valor notable cada vez que fue necesario."
+  },
+  "simple": {
+    "es": "simple/sencillo",
+    "type": "adjetivo",
+    "ex_en": "The best solutions are often the most simple ones.",
+    "ex_es": "Las mejores soluciones son a menudo las más simples."
+  },
+  "single": {
+    "es": "solo/único",
+    "type": "adjetivo",
+    "ex_en": "A single kind word can change someone's entire day.",
+    "ex_es": "Una sola palabra amable puede cambiar todo el día de alguien."
+  },
+  "sister": {
+    "es": "hermana",
+    "type": "sustantivo",
+    "ex_en": "Her sister was her closest friend and greatest supporter.",
+    "ex_es": "Su hermana era su amiga más cercana y su mayor apoyo."
+  },
+  "sky": {
+    "es": "cielo",
+    "type": "sustantivo",
+    "ex_en": "She looked at the sky and felt anything was possible.",
+    "ex_es": "Miró el cielo y sintió que todo era posible."
+  },
+  "slowly": {
+    "es": "despacio/lentamente",
+    "type": "adverbio",
+    "ex_en": "She walked slowly, savouring every moment of the morning.",
+    "ex_es": "Caminó despacio, saboreando cada momento de la mañana."
+  },
+  "small": {
+    "es": "pequeño",
+    "type": "adjetivo",
+    "ex_en": "Small consistent actions lead to extraordinary results.",
+    "ex_es": "Las pequeñas acciones constantes llevan a resultados extraordinarios."
+  },
+  "smile": {
+    "es": "sonrisa",
+    "type": "sustantivo",
+    "ex_en": "Her smile was the first thing everyone noticed.",
+    "ex_es": "Su sonrisa era lo primero que todos notaban."
+  },
+  "smiled": {
+    "es": "sonrió",
+    "type": "verbo",
+    "ex_en": "She smiled and the whole room felt lighter.",
+    "ex_es": "Sonrió y toda la habitación se sintió más ligera."
+  },
+  "smiles": {
+    "es": "sonríe",
+    "type": "verbo",
+    "ex_en": "She always smiles, even when things are hard.",
+    "ex_es": "Ella siempre sonríe, incluso cuando las cosas son difíciles."
+  },
+  "so": {
+    "es": "entonces/así que",
+    "type": "conjunción",
+    "ex_en": "She studied hard, so her results were always excellent.",
+    "ex_es": "Estudió duro, así que sus resultados siempre fueron excelentes."
+  },
+  "something": {
+    "es": "algo",
+    "type": "pronombre",
+    "ex_en": "She always had something valuable to contribute.",
+    "ex_es": "Ella siempre tenía algo valioso para aportar."
+  },
+  "soon": {
+    "es": "pronto",
+    "type": "adverbio",
+    "ex_en": "She knew that her hard work would pay off soon.",
+    "ex_es": "Sabía que su trabajo duro daría frutos pronto."
+  },
+  "spent": {
+    "es": "pasó/gastó",
+    "type": "verbo",
+    "ex_en": "She spent her evenings reading and growing her mind.",
+    "ex_es": "Pasaba las tardes leyendo y desarrollando su mente."
+  },
+  "spoke": {
+    "es": "habló",
+    "type": "verbo",
+    "ex_en": "She spoke with clarity and conviction in every situation.",
+    "ex_es": "Habló con claridad y convicción en cada situación."
+  },
+  "stand": {
+    "es": "estar de pie/mantenerse",
+    "type": "verbo",
+    "ex_en": "She would always stand by the people who needed her.",
+    "ex_es": "Siempre se mantendría junto a las personas que la necesitaban."
+  },
+  "standing": {
+    "es": "de pie/parado",
+    "type": "verbo",
+    "ex_en": "She was still standing when everyone else had given up.",
+    "ex_es": "Ella seguía de pie cuando todos los demás se habían rendido."
+  },
+  "start": {
+    "es": "empezar/comenzar",
+    "type": "verbo",
+    "ex_en": "The best time to start is right now, today.",
+    "ex_es": "El mejor momento para empezar es ahora mismo, hoy."
+  },
+  "step": {
+    "es": "paso",
+    "type": "sustantivo",
+    "ex_en": "Every great journey begins with a single bold step.",
+    "ex_es": "Todo gran viaje comienza con un solo paso valiente."
+  },
+  "still": {
+    "es": "todavía/aún",
+    "type": "adverbio",
+    "ex_en": "She was still working toward her goal every single day.",
+    "ex_es": "Seguía trabajando hacia su meta cada día."
+  },
+  "stop": {
+    "es": "parar/detenerse",
+    "type": "verbo",
+    "ex_en": "She chose never to stop learning, no matter her age.",
+    "ex_es": "Eligió nunca dejar de aprender, sin importar su edad."
+  },
+  "story": {
+    "es": "historia/cuento",
+    "type": "sustantivo",
+    "ex_en": "She was writing the most important story — her own life.",
+    "ex_es": "Estaba escribiendo la historia más importante — su propia vida."
+  },
+  "straight": {
+    "es": "recto/directo",
+    "type": "adjetivo",
+    "ex_en": "The road was not straight, but she kept going.",
+    "ex_es": "El camino no era recto, pero ella siguió adelante."
+  },
+  "street": {
+    "es": "calle",
+    "type": "sustantivo",
+    "ex_en": "She walked down the street with her head held high.",
+    "ex_es": "Caminó por la calle con la cabeza en alto."
+  },
+  "strengths": {
+    "es": "fortalezas",
+    "type": "sustantivo",
+    "ex_en": "She built her career around her greatest strengths.",
+    "ex_es": "Construyó su carrera alrededor de sus mayores fortalezas."
+  },
+  "struggling": {
+    "es": "luchando/teniendo dificultades",
+    "type": "verbo",
+    "ex_en": "Even when struggling, she kept her focus and her faith.",
+    "ex_es": "Incluso cuando luchaba, mantenía su enfoque y su fe."
+  },
+  "successful": {
+    "es": "exitoso",
+    "type": "adjetivo",
+    "ex_en": "She became successful through consistency and kindness.",
+    "ex_es": "Se volvió exitosa gracias a la constancia y la amabilidad."
+  },
+  "support": {
+    "es": "apoyo/apoyar",
+    "type": "sustantivo",
+    "ex_en": "Having real support makes every challenge more bearable.",
+    "ex_es": "Tener apoyo real hace que cada desafío sea más soportable."
+  },
+  "table": {
+    "es": "mesa",
+    "type": "sustantivo",
+    "ex_en": "She put everything on the table and spoke with honesty.",
+    "ex_es": "Puso todo sobre la mesa y habló con honestidad."
+  },
+  "take": {
+    "es": "tomar/llevar",
+    "type": "verbo",
+    "ex_en": "It takes time to build something truly worth keeping.",
+    "ex_es": "Lleva tiempo construir algo verdaderamente digno de conservar."
+  },
+  "tells": {
+    "es": "dice/cuenta",
+    "type": "verbo",
+    "ex_en": "She tells her students that every mistake is a lesson.",
+    "ex_es": "Ella le dice a sus estudiantes que cada error es una lección."
+  },
+  "than": {
+    "es": "que (comparativo)",
+    "type": "conjunción",
+    "ex_en": "She worked harder than anyone else on the team.",
+    "ex_es": "Trabajó más duro que cualquier otra persona del equipo."
+  },
+  "that": {
+    "es": "ese/esa/que",
+    "type": "pronombre",
+    "ex_en": "She believed that hard work always pays off in the end.",
+    "ex_es": "Creía que el trabajo duro siempre da sus frutos al final."
+  },
+  "the": {
+    "es": "el/la/los/las",
+    "type": "artículo",
+    "ex_en": "The small things you do every day shape who you become.",
+    "ex_es": "Las pequeñas cosas que haces cada día moldean en quién te conviertes."
+  },
+  "their": {
+    "es": "su (de ellos)",
+    "type": "pronombre",
+    "ex_en": "Their combined effort made the impossible seem achievable.",
+    "ex_es": "Su esfuerzo combinado hizo que lo imposible pareciera alcanzable."
+  },
+  "there": {
+    "es": "allí/hay",
+    "type": "adverbio",
+    "ex_en": "There is always a way forward if you believe.",
+    "ex_es": "Siempre hay un camino adelante si crees."
+  },
+  "they": {
+    "es": "ellos/ellas",
+    "type": "pronombre",
+    "ex_en": "They worked together and achieved something extraordinary.",
+    "ex_es": "Trabajaron juntos y lograron algo extraordinario."
+  },
+  "thing": {
+    "es": "cosa",
+    "type": "sustantivo",
+    "ex_en": "The most important thing was to keep showing up.",
+    "ex_es": "La cosa más importante era seguir apareciendo."
+  },
+  "things": {
+    "es": "cosas",
+    "type": "sustantivo",
+    "ex_en": "Good things come to those who work and stay patient.",
+    "ex_es": "Las cosas buenas llegan a quienes trabajan y se mantienen pacientes."
+  },
+  "think": {
+    "es": "pensar/creer",
+    "type": "verbo",
+    "ex_en": "She liked to think clearly before making any big decision.",
+    "ex_es": "Le gustaba pensar claramente antes de tomar cualquier decisión importante."
+  },
+  "those": {
+    "es": "esos/esas",
+    "type": "pronombre",
+    "ex_en": "Those were the lessons that shaped her entire life.",
+    "ex_es": "Esas fueron las lecciones que moldearon toda su vida."
+  },
+  "thought": {
+    "es": "pensó/pensaba",
+    "type": "verbo",
+    "ex_en": "She thought deeply before speaking — always.",
+    "ex_es": "Pensaba profundamente antes de hablar — siempre."
+  },
+  "three": {
+    "es": "tres",
+    "type": "número",
+    "ex_en": "She had not seen her family in three long years.",
+    "ex_es": "No había visto a su familia en tres largos años."
+  },
+  "time": {
+    "es": "tiempo/hora",
+    "type": "sustantivo",
+    "ex_en": "Time is the most valuable resource you have.",
+    "ex_es": "El tiempo es el recurso más valioso que tienes."
+  },
+  "to": {
+    "es": "a/para",
+    "type": "preposición",
+    "ex_en": "She walked to the market every Saturday morning.",
+    "ex_es": "Ella caminaba al mercado cada sábado por la mañana."
+  },
+  "today": {
+    "es": "hoy",
+    "type": "adverbio",
+    "ex_en": "Today is the day to take that first brave step.",
+    "ex_es": "Hoy es el día de dar ese primer paso valiente."
+  },
+  "took": {
+    "es": "tomó/llevó",
+    "type": "verbo",
+    "ex_en": "She took every opportunity to learn something new.",
+    "ex_es": "Ella aprovechó cada oportunidad para aprender algo nuevo."
+  },
+  "town": {
+    "es": "pueblo/ciudad pequeña",
+    "type": "sustantivo",
+    "ex_en": "The small town had a warmth and simplicity she loved.",
+    "ex_es": "El pequeño pueblo tenía una calidez y sencillez que ella amaba."
+  },
+  "tried": {
+    "es": "intentó/probó",
+    "type": "verbo",
+    "ex_en": "She tried again every time she failed, without hesitation.",
+    "ex_es": "Lo intentó de nuevo cada vez que fracasó, sin dudar."
+  },
+  "truly": {
+    "es": "verdaderamente/realmente",
+    "type": "adverbio",
+    "ex_en": "She truly believed that every person had something valuable.",
+    "ex_es": "Ella verdaderamente creía que cada persona tenía algo valioso."
+  },
+  "try": {
+    "es": "intentar/probar",
+    "type": "verbo",
+    "ex_en": "She would try and try again until she succeeded.",
+    "ex_es": "Intentaría y volvería a intentar hasta que tuviera éxito."
+  },
+  "understand": {
+    "es": "entender/comprender",
+    "type": "verbo",
+    "ex_en": "She worked hard to understand different points of view.",
+    "ex_es": "Trabajó duro para entender diferentes puntos de vista."
+  },
+  "up": {
+    "es": "arriba/levantarse",
+    "type": "adverbio",
+    "ex_en": "She got up early and made the most of every morning.",
+    "ex_es": "Se levantaba temprano y aprovechaba al máximo cada mañana."
+  },
+  "use": {
+    "es": "usar/utilizar",
+    "type": "verbo",
+    "ex_en": "She knew how to use her strengths to their full potential.",
+    "ex_es": "Sabía cómo usar sus fortalezas a su máximo potencial."
+  },
+  "walked": {
+    "es": "caminó",
+    "type": "verbo",
+    "ex_en": "She walked into the room with quiet confidence.",
+    "ex_es": "Entró en la habitación con una tranquila confianza."
+  },
+  "want": {
+    "es": "querer/desear",
+    "type": "verbo",
+    "ex_en": "She knew what she wanted and worked hard to get it.",
+    "ex_es": "Sabía lo que quería y trabajaba duro para conseguirlo."
+  },
+  "wanted": {
+    "es": "quería",
+    "type": "verbo",
+    "ex_en": "She wanted to make a real difference in the world.",
+    "ex_es": "Quería marcar una verdadera diferencia en el mundo."
+  },
+  "warm": {
+    "es": "cálido/tibio",
+    "type": "adjetivo",
+    "ex_en": "Her warm personality made everyone feel at ease.",
+    "ex_es": "Su cálida personalidad hacía que todos se sintieran cómodos."
+  },
+  "was": {
+    "es": "era/estaba/fue",
+    "type": "verbo",
+    "ex_en": "She was exactly where she needed to be.",
+    "ex_es": "Ella estaba exactamente donde necesitaba estar."
+  },
+  "water": {
+    "es": "agua",
+    "type": "sustantivo",
+    "ex_en": "She drank cold water every morning to start the day.",
+    "ex_es": "Bebía agua fría cada mañana para comenzar el día."
+  },
+  "way": {
+    "es": "camino/manera",
+    "type": "sustantivo",
+    "ex_en": "She always found her own way through every challenge.",
+    "ex_es": "Siempre encontraba su propio camino a través de cada desafío."
+  },
+  "week": {
+    "es": "semana",
+    "type": "sustantivo",
+    "ex_en": "Each week brought new lessons and new opportunities.",
+    "ex_es": "Cada semana traía nuevas lecciones y nuevas oportunidades."
+  },
+  "well": {
+    "es": "bien",
+    "type": "adverbio",
+    "ex_en": "She did her work well and people always noticed.",
+    "ex_es": "Hacía su trabajo bien y la gente siempre lo notaba."
+  },
+  "were": {
+    "es": "eran/estaban",
+    "type": "verbo",
+    "ex_en": "They were ready to face whatever came next together.",
+    "ex_es": "Estaban listos para enfrentar juntos lo que viniera a continuación."
+  },
+  "wet": {
+    "es": "mojado/húmedo",
+    "type": "adjetivo",
+    "ex_en": "The wet streets shone under the late night lights.",
+    "ex_es": "Las calles mojadas brillaban bajo las luces de la noche."
+  },
+  "what": {
+    "es": "qué/lo que",
+    "type": "pronombre",
+    "ex_en": "She always knew what she wanted and went after it.",
+    "ex_es": "Siempre supo lo que quería y fue tras ello."
+  },
+  "when": {
+    "es": "cuando",
+    "type": "conjunción",
+    "ex_en": "She was at her best when she had a clear purpose.",
+    "ex_es": "Estaba en su mejor momento cuando tenía un propósito claro."
+  },
+  "who": {
+    "es": "quien/quién",
+    "type": "pronombre",
+    "ex_en": "She became who she was through years of daily effort.",
+    "ex_es": "Se convirtió en quien era a través de años de esfuerzo diario."
+  },
+  "will": {
+    "es": "(futuro)",
+    "type": "verbo",
+    "ex_en": "Hard work will always bring results if you stay consistent.",
+    "ex_es": "El trabajo duro siempre traerá resultados si te mantienes constante."
+  },
+  "window": {
+    "es": "ventana",
+    "type": "sustantivo",
+    "ex_en": "She sat by the window every morning to think clearly.",
+    "ex_es": "Se sentaba junto a la ventana cada mañana para pensar con claridad."
+  },
+  "with": {
+    "es": "con",
+    "type": "preposición",
+    "ex_en": "She faced every challenge with grace and determination.",
+    "ex_es": "Enfrentó cada desafío con gracia y determinación."
+  },
+  "woman": {
+    "es": "mujer",
+    "type": "sustantivo",
+    "ex_en": "The woman across the table read quietly and with focus.",
+    "ex_es": "La mujer al otro lado de la mesa leía tranquila y enfocada."
+  },
+  "word": {
+    "es": "palabra",
+    "type": "sustantivo",
+    "ex_en": "Every word she chose carried real weight and meaning.",
+    "ex_es": "Cada palabra que elegía tenía un peso y significado real."
+  },
+  "words": {
+    "es": "palabras",
+    "type": "sustantivo",
+    "ex_en": "The right words at the right moment can change everything.",
+    "ex_es": "Las palabras correctas en el momento correcto pueden cambiarlo todo."
+  },
+  "work": {
+    "es": "trabajar/trabajo",
+    "type": "verbo",
+    "ex_en": "She chose to work on things that truly mattered to her.",
+    "ex_es": "Eligió trabajar en cosas que verdaderamente le importaban."
+  },
+  "worked": {
+    "es": "trabajó/funcionó",
+    "type": "verbo",
+    "ex_en": "She worked until she was fully satisfied with the result.",
+    "ex_es": "Trabajó hasta estar completamente satisfecha con el resultado."
+  },
+  "world": {
+    "es": "mundo",
+    "type": "sustantivo",
+    "ex_en": "She wanted to leave the world better than she found it.",
+    "ex_es": "Quería dejar el mundo mejor de como lo encontró."
+  },
+  "would": {
+    "es": "(condicional)",
+    "type": "verbo",
+    "ex_en": "She would try again, no matter how many times she failed.",
+    "ex_es": "Volvería a intentar, sin importar cuántas veces fracasara."
+  },
+  "write": {
+    "es": "escribir",
+    "type": "verbo",
+    "ex_en": "She would write down her goals every single morning.",
+    "ex_es": "Escribía sus metas cada mañana."
+  },
+  "year": {
+    "es": "año",
+    "type": "sustantivo",
+    "ex_en": "Every year she set bigger goals and worked harder.",
+    "ex_es": "Cada año se fijaba metas más grandes y trabajaba más duro."
+  },
+  "years": {
+    "es": "años",
+    "type": "sustantivo",
+    "ex_en": "She had spent years building exactly what she wanted.",
+    "ex_es": "Había pasado años construyendo exactamente lo que quería."
+  },
+  "yes": {
+    "es": "sí",
+    "type": "adverbio",
+    "ex_en": "She learned to say yes to the things that mattered.",
+    "ex_es": "Aprendió a decir sí a las cosas que importaban."
+  },
+  "you": {
+    "es": "tú/usted",
+    "type": "pronombre",
+    "ex_en": "You have everything you need to begin right now.",
+    "ex_es": "Tienes todo lo que necesitas para comenzar ahora mismo."
+  },
+  "your": {
+    "es": "tu/sus",
+    "type": "pronombre",
+    "ex_en": "Your greatest asset is your ability to keep learning.",
+    "ex_es": "Tu mayor activo es tu capacidad de seguir aprendiendo."
+  }
+}
